@@ -38,8 +38,8 @@ const Contact = () => {
                         <div class="contact-address flex-space-around">
                             <address>
                                 <h4>Address:</h4>
-                                <p>123 high street</p>
-                                <p>Tampere, Finland</p>
+                                <p>Uttara 9 Number Road</p>
+                                <p>Dhaka, Bangladesh</p>
                                 <br />
 
                                 <span>Call: </span>
