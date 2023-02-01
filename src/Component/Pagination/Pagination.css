@@ -1,0 +1,9 @@
+.pagination{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pagination_btn:first-child{
+    border-width: 1px 1px 1px 1px;
+    border-style: solid;
+}
