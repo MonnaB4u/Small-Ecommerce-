@@ -12,7 +12,8 @@ gap:1rem;
 }
 
 .cart_items-action{
-margin-top: 1rem;display: flex;
+margin-top: 1rem;
+display: flex;
 justify-content: space-between;
 }
 

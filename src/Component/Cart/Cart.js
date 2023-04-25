@@ -29,7 +29,7 @@ const Cart = () => {
     }
 
     const total =productPieces.reduce((total, prd) => total + prd.price, 0);
-
+console.log(total);
     let shipping = 0
     if (total > 700) {
         shipping = 0
